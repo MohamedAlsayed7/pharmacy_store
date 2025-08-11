@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Pharmacy Store — Khaleek Qawi</title>
+  <link rel="stylesheet" href="static/styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Pharmacy Store — Khaleek Qawi</h1>
+    <p>OTC Medicines — Demo store. Click "Send via WhatsApp" to open WhatsApp with your order.</p>
+  </header>
+  <main>
+    <section id="products" class="grid"></section>
+
+    <aside id="cartPanel">
+      <h2>Cart</h2>
+      <div id="cartItems"></div>
+      <div id="cartTotal">Total: 0 EGP</div>
+      <h3>Customer Details</h3>
+      <input id="custName" placeholder="Full name" />
+      <input id="custPhone" placeholder="Phone number (e.g. 01012345678)" />
+      <input id="custAddress" placeholder="Address" />
+      <button id="whatsappBtn">Send via WhatsApp</button>
+      <button id="submitServerBtn">Submit to Server</button>
+      <div id="status"></div>
+    </aside>
+  </main>
+  <footer>
+    <small>Demo pharmacy store — not a licensed online pharmacy. For demo purposes only.</small>
+  </footer>
+  <script src="static/app.js"></script>
+</body>
+</html>

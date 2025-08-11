@@ -1,0 +1,702 @@
+[
+  {
+    "id": "med001",
+    "name": "Paracetamol",
+    "price_egp": 332.77,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Paracetamol. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med002",
+    "name": "Ibuprofen",
+    "price_egp": 202.39,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ibuprofen. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med003",
+    "name": "Aspirin",
+    "price_egp": 210.81,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Aspirin. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med004",
+    "name": "Naproxen",
+    "price_egp": 447.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Naproxen. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med005",
+    "name": "Diclofenac Gel",
+    "price_egp": 376.74,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Diclofenac Gel. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med006",
+    "name": "Cetirizine",
+    "price_egp": 316.56,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Cetirizine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med007",
+    "name": "Loratadine",
+    "price_egp": 262.28,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Loratadine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med008",
+    "name": "Fexofenadine",
+    "price_egp": 178.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Fexofenadine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med009",
+    "name": "Diphenhydramine",
+    "price_egp": 413.54,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Diphenhydramine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med010",
+    "name": "Pseudoephedrine",
+    "price_egp": 261.73,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Pseudoephedrine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med011",
+    "name": "Phenylephrine",
+    "price_egp": 128.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Phenylephrine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med012",
+    "name": "Dextromethorphan",
+    "price_egp": 288.91,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Dextromethorphan. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med013",
+    "name": "Guaifenesin",
+    "price_egp": 99.77,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Guaifenesin. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med014",
+    "name": "Oxymetazoline",
+    "price_egp": 153.97,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oxymetazoline. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med015",
+    "name": "Saline Nasal Spray",
+    "price_egp": 203.61,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Saline Nasal Spray. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med016",
+    "name": "Omeprazole",
+    "price_egp": 325.17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Omeprazole. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med017",
+    "name": "Esomeprazole",
+    "price_egp": 326.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Esomeprazole. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med018",
+    "name": "Lansoprazole",
+    "price_egp": 288.66,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Lansoprazole. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med019",
+    "name": "Ranitidine",
+    "price_egp": 258.95,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ranitidine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med020",
+    "name": "Antacid Tablets",
+    "price_egp": 258.78,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Antacid Tablets. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med021",
+    "name": "Simethicone",
+    "price_egp": 99.79,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Simethicone. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med022",
+    "name": "Loperamide",
+    "price_egp": 352.48,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Loperamide. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med023",
+    "name": "Oral Rehydration Salts",
+    "price_egp": 359.6,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oral Rehydration Salts. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med024",
+    "name": "Bismuth Subsalicylate",
+    "price_egp": 246.06,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Bismuth Subsalicylate. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med025",
+    "name": "Metoclopramide",
+    "price_egp": 212.32,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Metoclopramide. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med026",
+    "name": "Hydrocortisone Cream",
+    "price_egp": 265.9,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Hydrocortisone Cream. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med027",
+    "name": "Calamine Lotion",
+    "price_egp": 81.4,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Calamine Lotion. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med028",
+    "name": "Clotrimazole Cream",
+    "price_egp": 114.72,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Clotrimazole Cream. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med029",
+    "name": "Miconazole Powder",
+    "price_egp": 152.17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Miconazole Powder. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med030",
+    "name": "Neosporin Ointment",
+    "price_egp": 109.62,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Neosporin Ointment. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med031",
+    "name": "Betadine",
+    "price_egp": 92.91,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Betadine. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med032",
+    "name": "Hydrogen Peroxide 3%",
+    "price_egp": 282.58,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Hydrogen Peroxide 3%. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med033",
+    "name": "Salicylic Acid",
+    "price_egp": 292.57,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Salicylic Acid. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med034",
+    "name": "Benzoyl Peroxide",
+    "price_egp": 41.04,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Benzoyl Peroxide. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med035",
+    "name": "Adapalene",
+    "price_egp": 428.43,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Adapalene. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med036",
+    "name": "Sunscreen SPF50",
+    "price_egp": 342.97,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Sunscreen SPF50. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med037",
+    "name": "Vitamin C 500mg",
+    "price_egp": 123.12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Vitamin C 500mg. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med038",
+    "name": "Multivitamin",
+    "price_egp": 403.15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Multivitamin. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med039",
+    "name": "Vitamin D3 1000 IU",
+    "price_egp": 99.29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Vitamin D3 1000 IU. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med040",
+    "name": "Calcium + Vitamin D",
+    "price_egp": 334.48,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Calcium + Vitamin D. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med041",
+    "name": "Ferrous Sulfate",
+    "price_egp": 446.96,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ferrous Sulfate. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med042",
+    "name": "Zinc Lozenges",
+    "price_egp": 16.12,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Zinc Lozenges. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med043",
+    "name": "Melatonin 3mg",
+    "price_egp": 218.32,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Melatonin 3mg. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med044",
+    "name": "Allergy Eye Drops",
+    "price_egp": 134.36,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Allergy Eye Drops. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med045",
+    "name": "Ear Drops",
+    "price_egp": 444.3,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ear Drops. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med046",
+    "name": "Oral Antiseptic Mouthwash",
+    "price_egp": 164.86,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oral Antiseptic Mouthwash. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med047",
+    "name": "Throat Lozenges",
+    "price_egp": 304.78,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Throat Lozenges. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med048",
+    "name": "Nicotine Gum",
+    "price_egp": 105.61,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Nicotine Gum. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med049",
+    "name": "Nicotine Patch",
+    "price_egp": 411.94,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Nicotine Patch. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med050",
+    "name": "Lactase Enzyme",
+    "price_egp": 21.47,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Lactase Enzyme. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med051",
+    "name": "Probiotic Capsules",
+    "price_egp": 190.2,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Probiotic Capsules. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med052",
+    "name": "Echinacea Capsules",
+    "price_egp": 241.37,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Echinacea Capsules. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med053",
+    "name": "Prenatal Vitamin",
+    "price_egp": 308.56,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Prenatal Vitamin. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med054",
+    "name": "Baby Paracetamol Liquid",
+    "price_egp": 168.48,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Baby Paracetamol Liquid. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med055",
+    "name": "Children Multivitamin",
+    "price_egp": 39.02,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Children Multivitamin. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med056",
+    "name": "Condoms",
+    "price_egp": 282.7,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Condoms. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med057",
+    "name": "Lubricant Gel",
+    "price_egp": 408.21,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Lubricant Gel. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med058",
+    "name": "Plan B Emergency Contraceptive",
+    "price_egp": 268.02,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Plan B Emergency Contraceptive. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med059",
+    "name": "Insect Repellent DEET",
+    "price_egp": 318.97,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Insect Repellent DEET. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med060",
+    "name": "Wound Dressing Pack",
+    "price_egp": 156.62,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Wound Dressing Pack. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med061",
+    "name": "Sterile Gauze",
+    "price_egp": 260.47,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Sterile Gauze. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med062",
+    "name": "Thermometer Digital",
+    "price_egp": 158.27,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Thermometer Digital. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med063",
+    "name": "Blood Pressure Cuff",
+    "price_egp": 219.29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Blood Pressure Cuff. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med064",
+    "name": "Glucose Test Strips",
+    "price_egp": 76.76,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Glucose Test Strips. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med065",
+    "name": "First Aid Kit",
+    "price_egp": 65.15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: First Aid Kit. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med066",
+    "name": "Ice Pack Reusable",
+    "price_egp": 112.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ice Pack Reusable. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med067",
+    "name": "Elastic Bandage",
+    "price_egp": 223.25,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Elastic Bandage. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med068",
+    "name": "Oral Glucose Gel",
+    "price_egp": 223.79,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oral Glucose Gel. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med069",
+    "name": "Saline Solution",
+    "price_egp": 338.21,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Saline Solution. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med070",
+    "name": "Paracetamol - 2",
+    "price_egp": 189.55,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Paracetamol - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med071",
+    "name": "Ibuprofen - 2",
+    "price_egp": 76.55,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ibuprofen - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med072",
+    "name": "Aspirin - 2",
+    "price_egp": 34.17,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Aspirin - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med073",
+    "name": "Naproxen - 2",
+    "price_egp": 178.45,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Naproxen - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med074",
+    "name": "Diclofenac Gel - 2",
+    "price_egp": 198.22,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Diclofenac Gel - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med075",
+    "name": "Cetirizine - 2",
+    "price_egp": 248.25,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Cetirizine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med076",
+    "name": "Loratadine - 2",
+    "price_egp": 338.79,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Loratadine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med077",
+    "name": "Fexofenadine - 2",
+    "price_egp": 188.95,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Fexofenadine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med078",
+    "name": "Diphenhydramine - 2",
+    "price_egp": 316.42,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Diphenhydramine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med079",
+    "name": "Pseudoephedrine - 2",
+    "price_egp": 293.89,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Pseudoephedrine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med080",
+    "name": "Phenylephrine - 2",
+    "price_egp": 34.39,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Phenylephrine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med081",
+    "name": "Dextromethorphan - 2",
+    "price_egp": 393.29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Dextromethorphan - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med082",
+    "name": "Guaifenesin - 2",
+    "price_egp": 47.72,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Guaifenesin - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med083",
+    "name": "Oxymetazoline - 2",
+    "price_egp": 391.81,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oxymetazoline - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med084",
+    "name": "Saline Nasal Spray - 2",
+    "price_egp": 160.07,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Saline Nasal Spray - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med085",
+    "name": "Omeprazole - 2",
+    "price_egp": 61.68,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Omeprazole - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med086",
+    "name": "Esomeprazole - 2",
+    "price_egp": 243.66,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Esomeprazole - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med087",
+    "name": "Lansoprazole - 2",
+    "price_egp": 365.85,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Lansoprazole - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med088",
+    "name": "Ranitidine - 2",
+    "price_egp": 403.99,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Ranitidine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med089",
+    "name": "Antacid Tablets - 2",
+    "price_egp": 432.53,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Antacid Tablets - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med090",
+    "name": "Simethicone - 2",
+    "price_egp": 322.86,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Simethicone - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med091",
+    "name": "Loperamide - 2",
+    "price_egp": 424.51,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Loperamide - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med092",
+    "name": "Oral Rehydration Salts - 2",
+    "price_egp": 256.51,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Oral Rehydration Salts - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med093",
+    "name": "Bismuth Subsalicylate - 2",
+    "price_egp": 318.73,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Bismuth Subsalicylate - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med094",
+    "name": "Metoclopramide - 2",
+    "price_egp": 188.38,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Metoclopramide - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med095",
+    "name": "Hydrocortisone Cream - 2",
+    "price_egp": 123.51,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Hydrocortisone Cream - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med096",
+    "name": "Calamine Lotion - 2",
+    "price_egp": 35.24,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Calamine Lotion - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med097",
+    "name": "Clotrimazole Cream - 2",
+    "price_egp": 405.13,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Clotrimazole Cream - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med098",
+    "name": "Miconazole Powder - 2",
+    "price_egp": 208.07,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Miconazole Powder - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med099",
+    "name": "Neosporin Ointment - 2",
+    "price_egp": 359.37,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Neosporin Ointment - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  },
+  {
+    "id": "med100",
+    "name": "Betadine - 2",
+    "price_egp": 335.79,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Tablets.jpg",
+    "description": "OTC medication: Betadine - 2. For symptomatic relief where applicable. Read label and consult pharmacist."
+  }
+]

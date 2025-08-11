@@ -1,0 +1,1 @@
+Demo store for educational purposes only. Not a licensed pharmacy.
